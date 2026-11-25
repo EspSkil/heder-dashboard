@@ -1,5 +1,31 @@
 {
-  "asOf": "25.11.2026 19:44",
+  "portfolio": {
+    "Shares held": 7200,
+    "Remaining cost NOK": 252000,
+    "Average cost NOK": 35,
+    "IPO reference NOK": 35,
+    "Latest close NOK": null,
+    "Valuation price NOK": 35,
+    "Market value NOK": 252000,
+    "Unrealized P/L NOK": 0,
+    "Realized P/L NOK": 0,
+    "Dividends NOK": 0,
+    "Total P/L NOK": 0,
+    "Total purchase outlay NOK": 252000,
+    "Total return on purchase outlay": 0,
+    "Input errors": 0
+  },
+  "transactions": [
+    {
+      "date": "2026-11-26",
+      "type": "BUY",
+      "shares": 7200,
+      "price": 35,
+      "fee": 0,
+      "cashFlow": -252000
+    }
+  ],
+  "asOf": "25.11.2026 19:59",
   "quarter": "Q3 2026",
   "ipo": 35,
   "shares": 0,
