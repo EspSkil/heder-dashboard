@@ -1,31 +1,33 @@
 {
-  "asOf": "25.11.2026",
+  "asOf": "25.11.2026 19:44",
   "quarter": "Q3 2026",
   "ipo": 35,
-  "shares": 7200,
+  "shares": 0,
   "sharesAfterIPO": 20608585,
-  "grossLoans": 2.5417,
+  "grossLoans": 2.5416999999999996,
+  "deposits": 3.3991,
   "equity": 358.4,
   "cet1": 37.1,
   "pretax": -25.7,
+  "netInterest": -3.7,
+  "nim": 1,
+  "roe": -27.6,
   "target": 50,
   "breakEven": "Q4 2027",
   "scenarios": [
     {
       "name": "Low",
-      "price": 63.02
+      "price": 63.017427388752786
     },
     {
       "name": "Mid",
-      "price": 80.67
+      "price": 80.6673534199501
     },
     {
       "name": "High",
-      "price": 104.28
+      "price": 104.28420875018834
     }
   ],
-  "deposits": 3.3991,
-  "netInterest": -3.7,
   "netLoansHistory": [
     {
       "quarter": "Q2 2026",
@@ -36,12 +38,2742 @@
       "value": 2.5064
     }
   ],
+  "grossLoansHistory": [
+    {
+      "quarter": "Q2 2026",
+      "value": 1.3246
+    },
+    {
+      "quarter": "Q3 2026",
+      "value": 2.5416999999999996
+    }
+  ],
   "closePrice": null,
   "previousClose": null,
-  "priceDate": null,
+  "priceDate": "",
   "priceHistory": [],
   "bookEquityCurrent": null,
-  "nim": null,
-  "roe": null,
-  "epsTTM": null
+  "epsTTM": null,
+  "quarterly": [
+    [
+      "Q2 2026",
+      1324.6,
+      1068.5,
+      1290.3,
+      2279.4,
+      0.011,
+      -9.8,
+      3.6,
+      -22.3,
+      -18.5,
+      -18.5,
+      -0.26,
+      381.1,
+      0.626,
+      0.626,
+      0.241,
+      38.5,
+      580.5,
+      363.6,
+      "",
+      "",
+      ""
+    ],
+    [
+      "Q3 2026",
+      2541.7,
+      2273.2,
+      2506.4,
+      3399.1,
+      0.01,
+      -3.7,
+      5,
+      -29.4,
+      -25.7,
+      -25.7,
+      -0.276,
+      358.4,
+      0.371,
+      0.371,
+      0.241,
+      13,
+      881.1,
+      326.5,
+      0.9188434244300165,
+      1.127468413664015,
+      0.4912257611652189
+    ]
+  ],
+  "tables": {
+    "Income Statement": [
+      [
+        "Income Statement — MNOK unless otherwise stated",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Metric",
+        "Q2 2026",
+        "Q3 2026",
+        "Q4 2026",
+        "Q1 2027",
+        "Q2 2027",
+        "Q3 2027",
+        "Q4 2027"
+      ],
+      [
+        "Interest revenue, effective interest method",
+        16.6,
+        23.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Interest expense, effective interest method",
+        -22.6,
+        -23.8,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Other interest expense",
+        -3.8,
+        -3.8,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net interest income",
+        -9.8,
+        -3.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Fee and commission expense",
+        -0.6,
+        -0.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net gains/(losses) on financial instruments at fair value",
+        13.5,
+        8.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Currency gains (loss)",
+        "",
+        -0.8,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total income",
+        3,
+        3.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Salaries and other personnel expenses",
+        -6.7,
+        -10.3,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Other expenses",
+        -12.7,
+        -16.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Depreciation and amortisation",
+        -3,
+        -2.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total operating expenses",
+        -22.3,
+        -29.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pre-tax profit (loss) before credit loss",
+        -19.3,
+        -25.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Credit loss expense",
+        0.8,
+        0,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Pre-tax profit (loss)",
+        -18.5,
+        -25.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Tax expense",
+        0,
+        0,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net profit (loss) after tax",
+        -18.5,
+        -25.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Other comprehensive income",
+        0,
+        0,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total comprehensive income",
+        -18.5,
+        -25.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic EPS (NOK, pre-split)",
+        -0.4,
+        -0.5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Diluted EPS (NOK, pre-split)",
+        -0.4,
+        -0.5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Weighted average shares (pre-split)",
+        41917697,
+        52533355,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "CALCULATED METRICS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Income growth QoQ (%)",
+        "",
+        0.2333333333333334,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating expense growth QoQ (%)",
+        "",
+        0.31838565022421506,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net profit change QoQ (MNOK)",
+        "",
+        -7.199999999999999,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cost/income (%)",
+        7.433333333333334,
+        7.945945945945946,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "Balance Sheet": [
+      [
+        "Balance Sheet — MNOK unless otherwise stated",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Metric",
+        "Q2 2026",
+        "Q3 2026",
+        "Q4 2026",
+        "Q1 2027",
+        "Q2 2027",
+        "Q3 2027",
+        "Q4 2027"
+      ],
+      [
+        "Cash and balances with central banks",
+        72.9,
+        73.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash deposits due from credit institutions",
+        187,
+        584.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Loans to customers",
+        1290.3,
+        2506.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Financial assets in liquidity portfolio",
+        1068,
+        547.5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Derivatives",
+        "",
+        4.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Intangible assets",
+        37.9,
+        45.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Equipment",
+        1.8,
+        1.8,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Right-of-use assets",
+        6.1,
+        5.5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Other assets",
+        14.1,
+        14.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total assets",
+        2678.1,
+        3784,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash deposits due to customers",
+        2279.4,
+        3399.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Other liabilities",
+        10.8,
+        20.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Lease liabilities",
+        6.8,
+        6.3,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total liabilities",
+        2297,
+        3425.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Share capital",
+        260.6,
+        262.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Share premium",
+        297.2,
+        300.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Other equity",
+        -176.7,
+        -204.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total equity",
+        381.1,
+        358.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total liabilities and equity",
+        2678.1,
+        3784,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "CALCULATED METRICS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net loan growth QoQ (%)",
+        "",
+        0.9424939936448888,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Deposit growth QoQ (%)",
+        "",
+        0.4912257611652189,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Equity growth QoQ (%)",
+        "",
+        -0.0595644187877199,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Equity/assets (%)",
+        0.14230237855195849,
+        0.09471458773784354,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Balance check (MNOK)",
+        0,
+        0,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "Cash Flow": [
+      [
+        "Cash Flow — MNOK unless otherwise stated",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Metric",
+        "Q2 2026",
+        "Q3 2026",
+        "Q4 2026",
+        "Q1 2027",
+        "Q2 2027",
+        "Q3 2027",
+        "Q4 2027"
+      ],
+      [
+        "Net receipts/(payments) on loans to customers",
+        -125.5,
+        -1216.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net receipts/(payments) on deposits from customers",
+        -149.2,
+        1119.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Interest received",
+        16.6,
+        23.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Interest paid",
+        -26.4,
+        -27.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net receipts/(payments) in trading/liquidity portfolio",
+        175.6,
+        529.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Hedged currency movements",
+        "",
+        -4.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net fee and commission payments",
+        -0.6,
+        -0.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Payments to operations",
+        -18.3,
+        -26.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Other net receipts/(payments)",
+        2.4,
+        8.8,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net cash flow from operating activities",
+        -125.4,
+        406.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net payments on fixed assets",
+        -0.5,
+        0,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Investment in intangible assets",
+        -8.1,
+        -10.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net cash flow from investing activities",
+        -8.6,
+        -10.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Lease installments",
+        -0.5,
+        -0.5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Capital increase",
+        210.1,
+        2.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net cash flow from financing activities",
+        209.6,
+        2.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net cash flow",
+        75.6,
+        397.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash and balances with central banks",
+        72.9,
+        73.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash deposits due from other credit institutions",
+        187,
+        584.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash and cash equivalents end of period",
+        259.9,
+        657.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash and cash equivalents beginning of period",
+        184.3,
+        259.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "CALCULATED METRICS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash growth QoQ (%)",
+        "",
+        1.5305886879569068,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Intangible investment growth QoQ (%)",
+        "",
+        0.3456790123456792,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "Bank KPI": [
+      [
+        "Bank KPI — MNOK unless otherwise stated",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Metric",
+        "Q2 2026",
+        "Q3 2026",
+        "Q4 2026",
+        "Q1 2027",
+        "Q2 2027",
+        "Q3 2027",
+        "Q4 2027"
+      ],
+      [
+        "Gross loan portfolio",
+        1324.6,
+        2541.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mortgage loans (LTV below 60%)",
+        1068.5,
+        2273.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Housing associations, credit facilities",
+        142.3,
+        155.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Debt consolidation loans (historic portfolio)",
+        113.8,
+        112.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net carrying amount",
+        1290.3,
+        2506.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Gross stage 1",
+        1185.6,
+        2375.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Gross stage 2",
+        25.6,
+        54.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Gross stage 3",
+        113.3,
+        112.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Accumulated impairment stage 1",
+        -0.4,
+        -0.5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Accumulated impairment stage 2",
+        -0.1,
+        -0.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Accumulated impairment stage 3",
+        -33.8,
+        -34.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total accumulated impairment",
+        -34.2,
+        -35.3,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Derecognized balances with legal claim",
+        89.7,
+        89.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net interest income",
+        -9.8,
+        -3.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net gains on financial instruments",
+        13.5,
+        8.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Adjusted net interest income",
+        3.6,
+        5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Gross loan portfolio beginning",
+        1199.1,
+        1324.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Average gross loan portfolio",
+        1261.8,
+        1933.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "NIM annualized (%)",
+        0.011,
+        0.01,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Customer deposits",
+        2279.4,
+        3399.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Deposit-to-loan ratio (%)",
+        1.721,
+        1.337,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net profit after tax",
+        -18.5,
+        -25.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Equity beginning",
+        189.2,
+        381.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Equity end",
+        381.1,
+        358.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Average equity",
+        285.2,
+        369.8,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ROE annualized (%)",
+        -0.26,
+        -0.276,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Shares outstanding (pre-split)",
+        52533355,
+        52533355,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Shareholders",
+        206,
+        206,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "CALCULATED METRICS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Gross loan growth QoQ (%)",
+        "",
+        0.9188434244300165,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mortgage growth QoQ (%)",
+        "",
+        1.127468413664015,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mortgage share (%)",
+        0.8066586139211838,
+        0.8943620411535587,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Stage 3 share (%)",
+        0.08553525592631739,
+        0.04414368336152969,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "NIM change (pp)",
+        "",
+        -0.09999999999999992,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ROE change (pp)",
+        "",
+        -1.6000000000000014,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cost/average gross loans annualized (%)",
+        0.07088687188544535,
+        0.06033899143749733,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "Capital Adequacy": [
+      [
+        "Capital Adequacy — MNOK unless otherwise stated",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Metric",
+        "Q2 2026",
+        "Q3 2026",
+        "Q4 2026",
+        "Q1 2027",
+        "Q2 2027",
+        "Q3 2027",
+        "Q4 2027"
+      ],
+      [
+        "Share capital",
+        260.6,
+        262.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Share premium",
+        297.2,
+        300.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Other equity",
+        -176.7,
+        -204.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Common equity Tier 1 capital instruments",
+        381.1,
+        358.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Intangible assets deduction",
+        -12.6,
+        -23.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Fair value adjustment",
+        -1.1,
+        -0.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Insufficient coverage for non-performing exposures",
+        -3.9,
+        -8,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Common equity Tier 1 capital",
+        363.6,
+        326.5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Tier 1 capital",
+        363.6,
+        326.5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Own funds",
+        363.6,
+        326.5,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Credit risk",
+        502.6,
+        803.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operational risk",
+        77.9,
+        77.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total risk exposure amount",
+        580.5,
+        881.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "CET1 ratio (%)",
+        0.626,
+        0.371,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Tier 1 ratio (%)",
+        0.626,
+        0.371,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total capital ratio (%)",
+        0.626,
+        0.371,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Regulatory capital requirement (%)",
+        0.241,
+        0.241,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Unadjusted exposure amount",
+        2640.4,
+        3738.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Leverage ratio (%)",
+        0.132,
+        0.087,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Regulatory leverage ratio requirement (%)",
+        0.03,
+        0.03,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA cash deposits in credit institutions",
+        37.4,
+        116.8,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA mortgages",
+        229.1,
+        474.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA unsecured loans",
+        31.3,
+        29.7,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA loans past due",
+        79.8,
+        77.6,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA undrawn loan facilities",
+        32.2,
+        26.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA investment fund",
+        45.5,
+        35.3,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA non-current shares",
+        0,
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA other",
+        47.3,
+        43.4,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Credit risk exposure",
+        502.6,
+        803.2,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operational risk exposure",
+        77.9,
+        77.9,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total risk-weighted assets",
+        580.5,
+        881.1,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "CALCULATED METRICS",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total capital buffer (pp)",
+        38.5,
+        13,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA growth QoQ (%)",
+        "",
+        0.5178294573643412,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "RWA/assets (%)",
+        0.21675814943430044,
+        0.23284883720930233,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Own funds above reported requirement (MNOK)",
+        223.69950000000003,
+        114.1549,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "Årlige målsetninger": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Boliglån",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Investorpresentasjon des2025",
+        2,
+        5,
+        10,
+        21,
+        42,
+        53
+      ],
+      [
+        "Heder IPO-mål nov2026 (brutto utlån)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        50
+      ],
+      [
+        "Pareto basisscenario nov2026 (brutto utlån)",
+        "",
+        5.4,
+        17.402,
+        27.914,
+        38.429,
+        46.999
+      ],
+      [
+        "Faktiske tall, kvartalsrapport",
+        1.3,
+        4,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "Q3-2026 (YTD der relevant)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Aksjekurs",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Investorpresentasjon des2025",
+        65,
+        65,
+        95,
+        120,
+        160,
+        227.5
+      ],
+      [
+        "IPO tegningskurs etter 5:1 spleis",
+        "",
+        35,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "kilde 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faktiske tall (justert spleis)",
+        65,
+        35,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "Notering",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "ROE",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        "",
+        "",
+        "",
+        0.07,
+        0.15,
+        0.17
+      ],
+      [
+        "Heder IPO-mål nov2026",
+        "",
+        "",
+        "",
+        "",
+        "",
+        0.15
+      ],
+      [
+        "Pareto basisscenario nov2026",
+        "",
+        -0.228,
+        -0.037,
+        0.033,
+        0.141,
+        0.155
+      ],
+      [
+        "Faktiske tall, kvartalsrapport",
+        "",
+        -0.276,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "Q3-2026 (YTD der relevant)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kost / Utlån",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        0.048,
+        0.017,
+        0.009,
+        0.005,
+        0.003,
+        0.002
+      ],
+      [
+        "Heder IPO-mål nov2026",
+        "",
+        "",
+        "",
+        "",
+        "",
+        0.003
+      ],
+      [
+        "Pareto beregnet kost/brutto utlån",
+        "",
+        0.019549566180542738,
+        0.006757843925985519,
+        0.004725227484416422,
+        0.0037393635015222876,
+        0.0033639013596033955
+      ],
+      [
+        "Faktiske tall Q3 (annualisert kost/utlån)",
+        "",
+        0.0469,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "Q3-2026 (YTD der relevant)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kapitalinnhenting Egenkapital",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        150,
+        "",
+        250,
+        325,
+        525,
+        100
+      ],
+      [
+        "Heder planlagt IPO-emisjon, MNOK",
+        "",
+        "300–400",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "kilde 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faktiske tall, kvartalsrapport",
+        0,
+        212.8,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "Q3-2026 (YTD der relevant)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Ren kjernekapitaldekning",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        0.316,
+        0.216,
+        0.217,
+        0.181,
+        0.163,
+        0.162
+      ],
+      [
+        "Pareto basisscenario nov2026",
+        "",
+        0.443,
+        0.253,
+        0.203,
+        0.171,
+        0.165
+      ],
+      [
+        "kilde 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faktiske tall, kvartalsrapport",
+        0.391,
+        0.371,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "Q3-2026 (YTD der relevant)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Inntekter:",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        20,
+        20,
+        79,
+        159,
+        332,
+        521
+      ],
+      [
+        "Pareto basisscenario nov2026",
+        "",
+        21.3,
+        92.7,
+        185.5,
+        393.8,
+        537.6
+      ],
+      [
+        "kilde 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faktiske tall, kvartalsrapport",
+        21.4,
+        10,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "Q3-2026 (YTD der relevant)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kostnader",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        111,
+        85,
+        89,
+        98,
+        116,
+        117
+      ],
+      [
+        "Pareto basisscenario nov2026",
+        "",
+        105.9,
+        117.6,
+        131.9,
+        143.7,
+        158.1
+      ],
+      [
+        "kilde 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faktiske tall, kvartalsrapport",
+        86,
+        72.7,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "Q3-2026 (YTD der relevant)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Resultat etter skatt",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        -91,
+        -66,
+        -10,
+        60,
+        217,
+        321
+      ],
+      [
+        "Pareto basisscenario nov2026",
+        "",
+        -83.2,
+        -28.3,
+        40.7,
+        228.7,
+        301.6
+      ],
+      [
+        "kilde 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faktiske tall, kvartalsrapport",
+        -97,
+        -61.2,
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "Q3-2026 (YTD der relevant)",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Verdsettelse",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        269,
+        423,
+        876,
+        1479,
+        2575,
+        3847
+      ],
+      [
+        "Pareto pre-money IPO-verdi, MNOK",
+        "",
+        "380–570",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "kilde 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faktiske tall, kvartalsrapport (ingen 2026 markedspris)",
+        269,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "P/B",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        1.27,
+        1.43,
+        1.63,
+        1.61,
+        1.55,
+        1.8
+      ],
+      [
+        "kilde 2",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "kilde 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faktiske tall, kvartalsrapport",
+        1.31,
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "4Q-2025",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Antall aksjer",
+        "",
+        7200,
+        7200,
+        7200,
+        7200,
+        7200
+      ],
+      [
+        "Verdi egne aksjer",
+        2025,
+        2026,
+        2027,
+        2028,
+        2029,
+        2030
+      ],
+      [
+        "Investorpresentasjon des2025",
+        "",
+        252000,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        "kilde 2",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "kilde 3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Faktiske tall",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kilde:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "CapitalHistory": [
+      [
+        "Date",
+        "Event",
+        "Issue Price (NOK)",
+        "Shares Before",
+        "New Shares",
+        "Shares After",
+        "Gross Capital Raised (MNOK)",
+        "Net Capital Raised (MNOK)",
+        "Pre-money Valuation (MNOK)",
+        "Post-money Valuation (MNOK)",
+        "Dilution (%)",
+        "Source",
+        "Comment"
+      ],
+      [
+        "2026-11-13T08:00:00.000Z",
+        "Share consolidation 5:1",
+        "",
+        53042925,
+        -42434340,
+        10608585,
+        0,
+        "",
+        "",
+        "",
+        0,
+        "Prospectus 16.11.2026 §14.3",
+        "Registered 13 Nov; no economic dilution. E is net share-count change."
+      ],
+      [
+        "2026-11-24T08:00:00.000Z",
+        "IPO – allocation announced",
+        35,
+        10608585,
+        10000000,
+        20608585,
+        350,
+        "",
+        371.300475,
+        721.300475,
+        0.48523467283173494,
+        "Bookbuilding successfully completed 24.11.2026",
+        "Allocated; registration/payment pending as of 25 Nov. Excludes greenshoe."
+      ],
+      [
+        "",
+        "Greenshoe – pending",
+        35,
+        20608585,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Bookbuilding successfully completed 24.11.2026",
+        "Up to 1,500,000 additional shares / 52.5 MNOK; not yet exercised. Enter actual figures upon confirmation."
+      ]
+    ],
+    "Scenarios": [
+      [
+        "Parameter",
+        "Low",
+        "Mid",
+        "High",
+        "Very High",
+        "Kilde / kommentar"
+      ],
+      [
+        "Sannsynlighet",
+        0.3,
+        0.3,
+        0.3,
+        0.1,
+        "Tidligere foreslåtte vekter; ikke Pareto. Low = slower growth (ikke krisescenario); Very High ikke modellert."
+      ],
+      [
+        "Boliglån 2030 (MRD)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Brutto utlån 2030 (MRD)",
+        28.149,
+        46.999,
+        50.075,
+        "",
+        "Pareto 09.11.2026, scenario comparison; Low/Mid/High = slower/base/company targets."
+      ],
+      [
+        "NIM (%)",
+        "",
+        "",
+        0.01,
+        "",
+        "Pareto company targets: ca. 1% av brutto utlån fra 2028."
+      ],
+      [
+        "Netto renteinntekter (MNOK)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Inntekter fra dagligbank (MNOK)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Kostnad / utlån (%)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Driftskostnader (MNOK)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Utlånstap (MNOK)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Resultat før skatt (MNOK)",
+        200,
+        352,
+        434.6666666666667,
+        "",
+        "Beregnet med normalisert skatt 25%."
+      ],
+      [
+        "Resultat etter skatt (MNOK)",
+        150,
+        264,
+        326,
+        "",
+        "Pareto 2030, normalisert skatt 25%."
+      ],
+      [
+        "Egenkapital (MNOK)",
+        1360,
+        2122,
+        2370,
+        "",
+        "Pareto pre-money valuation, 2030 book equity."
+      ],
+      [
+        "ROE (%)",
+        0.12,
+        0.135,
+        0.15,
+        "",
+        "Pareto, normalisert skatt."
+      ],
+      [
+        "Fremtidig kapitalinnhenting (MNOK)",
+        275,
+        750,
+        750,
+        "",
+        "Pareto totalt 625/1100/1100 MNOK minus IPO 350 MNOK."
+      ],
+      [
+        "Antall aksjer 2030",
+        27849439,
+        39631894,
+        38884123,
+        "",
+        "Illustrativt: faktisk IPO-aksjeantall / Pareto retention; ikke Pareto aksjeprognose."
+      ],
+      [
+        "EPS 2030",
+        5.386104905021606,
+        6.661301627421591,
+        8.383884599891838,
+        "",
+        ""
+      ],
+      [
+        "P/E multiplikator",
+        11.7,
+        12.109848484848484,
+        12.438650306748466,
+        "",
+        "Beregnet post-money P/E, ikke Pareto pre-money P/E."
+      ],
+      [
+        "P/B multiplikator",
+        1.29,
+        1.51,
+        1.71,
+        "",
+        "Pareto exit P/B."
+      ],
+      [
+        "Estimert aksjekurs 2030 (NOK)",
+        63.017427388752786,
+        80.6673534199501,
+        104.28420875018834,
+        "",
+        "Beregnet fra Pareto selskapsverdi og illustrativt aksjeantall."
+      ],
+      [
+        "Årlig kursavkastning",
+        0.1583722801872991,
+        0.23213257926144149,
+        0.31382531748082365,
+        "",
+        "Forenklet fire års kursavkastning, uten utbytte."
+      ],
+      [
+        "Utbetalingsgrad (%)",
+        0.5,
+        0.5,
+        0.5,
+        "",
+        "Illustrativ antakelse (ikke guidet utbytte)."
+      ],
+      [
+        "Utbytte per aksje (NOK)",
+        2.693052452510803,
+        3.3306508137107955,
+        4.191942299945919,
+        "",
+        ""
+      ],
+      [
+        "Yield on Cost (IPO)",
+        0.07694435578602293,
+        0.09516145182030844,
+        0.11976977999845483,
+        "",
+        ""
+      ],
+      [
+        "Post-money valuation 2030 (MNOK)",
+        1755,
+        3197,
+        4055,
+        "",
+        "Pareto post-money valuation."
+      ],
+      [
+        "Retention etter IPO",
+        0.74,
+        0.52,
+        0.53,
+        "",
+        "Pareto retention etter fremtidig utvanning, avrundet."
+      ],
+      [
+        "IPO-kurs (NOK)",
+        35,
+        35,
+        35,
+        35,
+        "IPO fast pris."
+      ],
+      [
+        "IPO-aksjer ekskl. greenshoe",
+        20608585,
+        20608585,
+        20608585,
+        20608585,
+        "IPO-allokering uten greenshoe; oppdateres ved bekreftet registrering."
+      ],
+      [
+        "Sannsynlighetsvektet aksjekurs (NOK)",
+        "",
+        "",
+        "",
+        "",
+        "Vises først når alle fire scenarioer er utfylt og vektene summerer til 100%."
+      ],
+      [
+        "Sum sannsynlighet",
+        0.9999999999999999,
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  }
 }
