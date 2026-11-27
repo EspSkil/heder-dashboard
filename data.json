@@ -1,18 +1,18 @@
 {
   "portfolio": {
-    "Shares held": 9000,
-    "Remaining cost NOK": 313200,
-    "Average cost NOK": 34.8,
+    "Shares held": 10000,
+    "Remaining cost NOK": 346300,
+    "Average cost NOK": 34.63,
     "IPO reference NOK": 35,
     "Latest close NOK": null,
     "Valuation price NOK": 35,
-    "Market value NOK": 315000,
-    "Unrealized P/L NOK": 1800,
+    "Market value NOK": 350000,
+    "Unrealized P/L NOK": 3700,
     "Realized P/L NOK": 0,
     "Dividends NOK": 0,
-    "Total P/L NOK": 1800,
-    "Total purchase outlay NOK": 313200,
-    "Total return on purchase outlay": 0.005747126436781609,
+    "Total P/L NOK": 3700,
+    "Total purchase outlay NOK": 346300,
+    "Total return on purchase outlay": 0.010684377707190298,
     "Input errors": 0
   },
   "transactions": [
@@ -31,9 +31,17 @@
       "price": 34,
       "fee": 0,
       "cashFlow": -61200
+    },
+    {
+      "date": "2026-11-27",
+      "type": "BUY",
+      "shares": 1000,
+      "price": 33.1,
+      "fee": 0,
+      "cashFlow": -33100
     }
   ],
-  "asOf": "27.11.2026 09:30",
+  "asOf": "27.11.2026 18:31",
   "quarter": "Q3 2026",
   "ipo": 35,
   "shares": 0,
